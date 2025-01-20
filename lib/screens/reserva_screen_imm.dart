@@ -2,7 +2,7 @@ import 'package:fl_examen_imm/screens/list_view_screen_imm.dart';
 import 'package:flutter/material.dart';
 
 class ReservaScreen extends StatelessWidget {
-  const ReservaScreen({Key? key}) : super(key: key);
+  const ReservaScreen({super.key});
   @override
   Widget build(BuildContext context) {
     return Scaffold(

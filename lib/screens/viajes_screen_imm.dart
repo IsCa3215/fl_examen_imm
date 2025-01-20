@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class ViajesScreen extends StatelessWidget {
+  const ViajesScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
